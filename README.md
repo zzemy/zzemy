@@ -1,4 +1,4 @@
-# Hi 👋, I'm ZHalio
+# Hi 👋, I'm emmm
 
 ### A budding front-end developer
 
@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **front-end**
 
-- 📫 How to reach me **1992107794@qq.com**
+- 📫 How to reach me **emmmxx.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
