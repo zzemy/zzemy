@@ -1,20 +1,56 @@
 # Hi 👋, I'm emmm
 
-### A budding front-end developer
+### 🚀 A budding front-end developer 
 
-<p align="left">  </p>
-
-- 🔭 I'm currently working on **front-end development**
-
-- 🌱 I'm currently learning **front-end**
-
-- 📫 How to reach me **emmmxx.xyz**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/zzemy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zzemy" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?user=zzemy&label=Profile%20views&color=0e75b6&style=flat" alt="zzemy" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
+### 💫 About Me
+
+- 🔭 **Current Focus:** Building responsive and high-performance web applications.
+- 🌱 **Learning:** Deep diving into **TypeScript** and **React** ecosystem.
+- 💬 **Ask me about:** JavaScript, CSS Layouts, or Web Basics.
+- 📫 **Personal Site:** [emmmxx.xyz](https://emmmxx.xyz)
+
+---
+
+### 💻 My Tech Stack
+
+**Core Languages**
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c" />
+  </a>
+</p>
+
+**Frameworks & Runtimes**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite" />
+  </a>
+</p>
+
+**Tools & Environment**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pnpm" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&rank_icon=github&display_format=v2" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzemy&layout=compact&theme=transparent&hide_border=false" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" />
+</p>
