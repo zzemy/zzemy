@@ -1,55 +1,69 @@
-# Hi 👋, I'm emmm
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=emmm&fontSize=75&animation=fadeIn" />
+</p>
 
-### 🚀 A budding front-end developer 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+a+TypeScript+Enthusiast;Building+clean+and+type-safe+UI;Let's+create+something+cool!" alt="Typing SVG" />
+</p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?user=zzemy&label=Profile%20views&color=0e75b6&style=flat" alt="zzemy" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20TS-0e75b6?style=flat-square&logo=react" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=zzemy&label=SIGHTINGS&countColor=%230e75b6&style=flat-square" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-- 🔭 **Current Focus:** Building responsive and high-performance web applications.
-- 🌱 **Learning:** Deep diving into **TypeScript** and **React** ecosystem.
-- 💬 **Ask me about:** JavaScript, CSS Layouts, or Web Basics.
-- 📫 **Personal Site:** [emmmxx.xyz](https://emmmxx.xyz)
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 What I'm doing</h4>
+      <ul>
+        <li>🚀 Mastering <b>TypeScript</b> (77%+ usage)</li>
+        <li>🎨 Crafting pixel-perfect <b>CSS</b></li>
+        <li>🛠 Exploring <b>Next.js</b> ecosystem</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌱 Personal Goal</h4>
+      <ul>
+        <li>✍️ Blogging at <a href="https://emmmxx.xyz">emmmxx.xyz</a></li>
+        <li>📈 Improving Web Performance</li>
+        <li>⭐ Contributing to Open Source</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 My Tech Stack
-
-**Core Languages**
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c" />
-  </a>
-</p>
-
-**Frameworks & Runtimes**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite" />
-  </a>
-</p>
-
-**Tools & Environment**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pnpm" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Analytics
+### 🛠 My Creative Toolbox
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&rank_icon=github&display_format=v2" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzemy&layout=compact&theme=transparent&hide_border=false" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,react,nextjs,nodejs,express,vite,pnpm,git,github,vscode,linux&perline=8" />
+  </a>
 </p>
 
 ---
+
+### 📊 GitHub Dashboard
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&rank_icon=github&display_format=v2&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=444" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=444" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zzemy&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" />
