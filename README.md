@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Front--End%20Engineer-0e75b6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-TypeScript%20%26%20UI-0e75b6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=zzemy&label=SIGHTINGS&countColor=%230e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Front--End%20Engineer-0e75b6?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-TypeScript%20%26%20UI-0e75b6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=zzemy&label=SIGHTINGS&countColor=%230e75b6&style=flat-square" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,android,kotlin,git,github,vscode,linux,pnpm&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,pnpm,tailwind,styledcomponents,git,github,vscode,linux&perline=7" />
   </a>
 </p>
 
@@ -47,19 +47,22 @@
 
 ### 📊 GitHub Dashboard
 
+<!-- 第一行：基础统计 + 语言分布（高度统一，去掉了等级圆圈） -->
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&rank_icon=github&display_format=v2&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=444" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_rank=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" />
 </p>
 
+<!-- 第二行：Streak 统计（缩小宽度，居中显示） -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=444" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zzemy&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=zzemy&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideNums=777&sideLabels=777&dates=777" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <i>"Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application."</i><br>
+  <strong>— Ted Nelson</strong>
 </p>
 
 <p align="center">
