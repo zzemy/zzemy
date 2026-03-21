@@ -17,7 +17,7 @@
     <td width="50%" valign="top">
       <h4>💻 What I'm doing</h4>
       <ul>
-        <li>🚀 Mastering <b>TypeScript</b> (77%+ usage)</li>
+        <li>🚀 Mastering <b>TypeScript</b></li>
         <li>🎨 Crafting pixel-perfect <b>CSS</b></li>
         <li>🛠 Exploring <b>Next.js</b> ecosystem</li>
       </ul>
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,pnpm,tailwind,styledcomponents,git,github,vscode,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,pnpm,tailwind,c,git,github,vscode,linux&perline=7" />
   </a>
 </p>
 
