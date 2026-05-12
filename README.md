@@ -47,10 +47,10 @@
 
 ### 📊 GitHub Dashboard
 
-<!-- 第一行：基础统计 + 语言分布（高度统一，去掉了等级圆圈，修正了 top-langs 路由） -->
+<!-- 第一行：基础统计 + 语言分布（已更换为高可用镜像源 github-readme-stats-fast） -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_rank=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_rank=true" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" />
 </p>
 
 <!-- 第二行：Streak 统计（缩小宽度，居中显示） -->
