@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Front--End%20Engineer-0e75b6?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-TypeScript%20%26%20UI-0e75b6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-0e75b6?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-TypeScript%20%26%20Full--Stack-0e75b6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://api.visitorbadge.io/api/visitors?path=zzemy&label=SIGHTINGS&countColor=%230e75b6&style=flat-square" />
 </p>
 
@@ -17,8 +17,8 @@
     <td width="50%" valign="top">
       <h4>💻 What I'm doing</h4>
       <ul>
-        <li>🚀 Mastering <b>TypeScript</b></li>
-        <li>🎨 Crafting pixel-perfect <b>CSS</b></li>
+        <li>🚀 Mastering <b>TypeScript</b> & <b>Node.js</b></li>
+        <li>🎨 Building scalable <b>Full-Stack</b> apps</li>
         <li>🛠 Exploring <b>Next.js</b> ecosystem</li>
       </ul>
     </td>
@@ -26,7 +26,7 @@
       <h4>🌱 Personal Goal</h4>
       <ul>
         <li>✍️ Blogging at <a href="https://emmmxx.xyz">emmmxx.xyz</a></li>
-        <li>📈 Improving Web Performance</li>
+        <li>📈 Improving System Performance</li>
         <li>⭐ Contributing to Open Source</li>
       </ul>
     </td>
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,pnpm,tailwind,c,git,github,vscode,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,docker,tailwind,vite,pnpm,c,git,github,vscode,linux&perline=8" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 ### 📊 GitHub Dashboard
 
-<!-- 第一行：基础统计 + 语言分布（已更换为高可用镜像源 github-readme-stats-fast） -->
+<!-- 第一行：基础统计 + 语言分布（已更换为高可用镜像源） -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_rank=true" />
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" />
