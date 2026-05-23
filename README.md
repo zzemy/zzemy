@@ -47,18 +47,15 @@
 
 ### 📊 GitHub Dashboard
 
-<!-- 第一行：基础统计 + 语言分布（已更换为高可用镜像源） -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_rank=true" />
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" />
 </p>
 
-<!-- 第二行：新添加的 Radical 主题统计卡片 -->
 <p align="center">
-  <img width="65%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zzemy&show_icons=true&theme=radical" />
+  <img width="65%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777" />
 </p>
 
-<!-- 第三行：Streak 统计（缩小宽度，居中显示） -->
 <p align="center">
   <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=zzemy&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideNums=777&sideLabels=777&dates=777" />
 </p>
