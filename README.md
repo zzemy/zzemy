@@ -48,7 +48,7 @@
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777" />
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" />
 </p>
 
