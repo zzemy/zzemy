@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-<img width="65%" src="https://streak-stats.demolab.com/?user=zzemy&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideNums=777&sideLabels=777&dates=777" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=zzemy&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideNums=777&sideLabels=777&dates=777&v=1" />
 </p>
 
 ---
