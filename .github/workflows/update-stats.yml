@@ -1,0 +1,39 @@
+name: Update Stats Images
+
+on:
+  schedule:
+    # 每天 UTC 00:00 运行（北京时间 08:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update image URLs with timestamp
+        run: |
+          # 生成时间戳
+          TIMESTAMP=$(date +%s)
+
+          # 更新 README.md 中的图片 URL，添加时间戳参数
+          sed -i "s|\(github-readme-stats-fast\.vercel\.app/api[^\"]*\)|\1\&t=${TIMESTAMP}|g" README.md
+          sed -i "s|\(streak-stats\.demolab\.com[^\"]*\)|\1\&t=${TIMESTAMP}|g" README.md
+
+          # 清理可能的重复时间戳参数
+          sed -i 's/&t=[0-9]*&t=[0-9]*/\&t='${TIMESTAMP}'/g' README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update stats images cache [skip ci]"
+          git push
