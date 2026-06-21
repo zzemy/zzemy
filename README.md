@@ -48,12 +48,12 @@
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_rank=true&t=1781929423" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777&t=1781929423" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777&hide_rank=true&t=1782018466" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777&t=1782018466" />
 </p>
 
 <p align="center">
-<img width="65%" src="https://streak-stats.demolab.com/?user=zzemy&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideNums=777&sideLabels=777&dates=777&v=1&t=1781929423" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=zzemy&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideNums=777&sideLabels=777&dates=777&v=1&t=1782018466" />
 </p>
 
 ---
