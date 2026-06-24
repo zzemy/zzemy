@@ -25,7 +25,7 @@
     <td width="50%" valign="top">
       <h4>🌱 Personal Goal</h4>
       <ul>
-        <li>✍️ Blogging at <a href="https://emmmxx.xyz">emmmxx.xyz</a></li>
+        <li>✍️ Blogging at <a href="https://blog.zzemy.top">blog.zzemy.top</a></li>
         <li>📈 Improving System Performance</li>
         <li>⭐ Contributing to Open Source</li>
       </ul>
