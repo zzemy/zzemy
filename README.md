@@ -24,12 +24,12 @@
 ## GitHub activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=6b7280&hide_rank=true&t=1789965554" alt="GitHub statistics" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=6b7280&t=1789965554" alt="Most used languages" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=zzemy&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=6b7280&hide_rank=true&t=1790051724" alt="GitHub statistics" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=zzemy&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=6b7280&t=1790051724" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com/?user=zzemy&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideNums=6b7280&sideLabels=6b7280&dates=6b7280&t=1789965554" alt="GitHub contribution streak" />
+  <img width="65%" src="https://streak-stats.demolab.com/?user=zzemy&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideNums=6b7280&sideLabels=6b7280&dates=6b7280&t=1790051724" alt="GitHub contribution streak" />
 </div>
 
 <p align="center">
